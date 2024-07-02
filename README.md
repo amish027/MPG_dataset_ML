@@ -1,10 +1,11 @@
 # MPG_dataset_ML
 Built a multiple linear regression model to predict car MPG using the MPG dataset, achieving 65% accuracy with Python libraries. 🚀
 
-Project Overview :
 
 🚗 Machine Learning Project on MPG Dataset
+
 📊 Project Overview
+
 Welcome to my machine learning project on the MPG (Miles Per Gallon) dataset! This project focuses on predicting the fuel efficiency of various cars using multiple linear regression.
 
 🛠️ Libraries Used
